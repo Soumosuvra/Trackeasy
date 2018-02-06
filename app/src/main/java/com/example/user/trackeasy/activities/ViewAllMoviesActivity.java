@@ -104,7 +104,7 @@ public class ViewAllMoviesActivity extends AppCompatActivity {
             }
         });
 
-        loadMovies(mMovieType); //hfuisufhush
+        loadMovies(mMovieType); //hfuisufhush soumo
 
     }
 
